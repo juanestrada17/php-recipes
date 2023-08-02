@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-items{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-items li{
+    display: flex;
+    padding-right: 2rem;
+}
+
+h3{
+    color: red;
+}
+
+.sign{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.rec-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
